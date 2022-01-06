@@ -28,7 +28,7 @@ twitter_username: madhavlab
 github_username:  ee698r
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
